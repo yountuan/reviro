@@ -36,7 +36,7 @@ The images below demonstarte you how CRUD works in all of objects(Location, Esta
   <img src="screenshots/Screenshot 2024-03-03 at 15.18.51.png" width="350" title="CRUD">
   <img src="screenshots/Screenshot 2024-03-03 at 15.19.08.png" width="350" title="CRUD">
   <img src="screenshots/Screenshot 2024-03-03 at 15.19.38.png" width="350" title="CRUD">
-  <img src="screenshots/Screenshot 2024-03-03 at 20.18.26.pngg" width="350" title="CRUD">
+  <img src="screenshots/Screenshot 2024-03-03 at 20.18.26.png" width="350" title="CRUD">
   <img src="screenshots/Screenshot 2024-03-03 at 20.20.19.png" width="350" title="CRUD">
   <img src="screenshots/Screenshot 2024-03-03 at 20.20.25.png" width="350" title="CRUD">
 </p>
