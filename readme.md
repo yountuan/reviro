@@ -42,6 +42,6 @@ The images below demonstarte you how CRUD works in all of objects(Location, Esta
 
 There are some tests that checks the work of post requests in Product, Location and Establishment written using pytest.
 <p align="center">
-  <img src="screenshots/Screenshot 2024-03-03 at 15.13.01.png" width="350" title="API roots">
+  <img src="screenshots/Screenshot 2024-03-03 at 20.08.33.png" width="350" title="API roots">
 </p>
 
