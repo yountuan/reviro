@@ -25,7 +25,7 @@ You can set filters, ordering and search fields.
 </p>
 
 
-The images below demonstarte you how CRUD works in all of objects(Location, Establishment, Product)
+The images below demonstarte you how CRUD works in all of objects(Location, Establishment, Product). And the pagination is 4 objects per page.
 
 <p align="center">
   <img src="screenshots/Screenshot 2024-03-03 at 15.15.41.png" width="350" title="CRUD">
@@ -36,12 +36,20 @@ The images below demonstarte you how CRUD works in all of objects(Location, Esta
   <img src="screenshots/Screenshot 2024-03-03 at 15.18.51.png" width="350" title="CRUD">
   <img src="screenshots/Screenshot 2024-03-03 at 15.19.08.png" width="350" title="CRUD">
   <img src="screenshots/Screenshot 2024-03-03 at 15.19.38.png" width="350" title="CRUD">
-  <img src="screenshots/Screenshot 2024-03-03 at 15.20.15.png" width="350" title="CRUD">
+  <img src="screenshots/Screenshot 2024-03-03 at 20.18.26.pngg" width="350" title="CRUD">
+  <img src="screenshots/Screenshot 2024-03-03 at 20.20.19.png" width="350" title="CRUD">
+  <img src="screenshots/Screenshot 2024-03-03 at 20.20.25.png" width="350" title="CRUD">
 </p>
 
+This is the connection of database to PostgreSQL.
+
+<p align="center">
+  <img src="screenshots/Screenshot 2024-03-03 at 20.15.39.png" width="350" title="API roots">
+</p>
 
 There are some tests that checks the work of post requests in Product, Location and Establishment written using pytest.
 <p align="center">
   <img src="screenshots/Screenshot 2024-03-03 at 20.08.33.png" width="350" title="API roots">
 </p>
+
 
