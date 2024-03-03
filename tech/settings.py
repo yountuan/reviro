@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     'rest_framework_swagger',
     'drf_yasg',
     'django_filters',
+    # 'rest_framework.authtoken',
+
     #apps
     'tech_start',
     

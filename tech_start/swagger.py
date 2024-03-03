@@ -4,9 +4,9 @@ from drf_yasg.views import get_schema_view
 from drf_yasg import openapi
 
 schema_view = get_schema_view(
-    openapi.Info(title='Products',
+    openapi.Info(title='Products inventory',
                  default_version='v1',
-                 description='The products api documentation',
+                 description='The products inventory api documentation',
                  license=openapi.License(name='BSD license'),
                  ),
     public=True,
