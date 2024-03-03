@@ -1,6 +1,6 @@
 Welcome!
 
-This is readme file desciring my backend for product inventory system.
+This is readme file describing my backend for product inventory system.
 
 The UI documentation is available via Swagger.
 
