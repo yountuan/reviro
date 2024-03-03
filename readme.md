@@ -57,3 +57,6 @@ You can find containerization in dockerfiles.
 <p align="center">
   <img src="screenshots/Screenshot 2024-03-03 at 20.32.07.png" width="350" title="API roots">
 </p>
+
+Even though this project fits all requirements, it still will be developed by adding more opportunities and security restrictions such as authentication and autorization for users.
+
