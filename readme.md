@@ -52,4 +52,8 @@ There are some tests that checks the work of post requests in Product, Location 
   <img src="screenshots/Screenshot 2024-03-03 at 20.08.33.png" width="350" title="API roots">
 </p>
 
+You can find containerization in dockerfiles.
 
+<p align="center">
+  <img src="screenshots/Screenshot 2024-03-03 at 20.32.07.png" width="350" title="API roots">
+</p>
