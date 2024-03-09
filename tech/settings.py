@@ -46,6 +46,7 @@ INSTALLED_APPS = [
 
     #apps
     'tech_start',
+    'account',
     
 ]
 
