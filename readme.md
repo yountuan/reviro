@@ -60,3 +60,32 @@ You can find containerization in dockerfiles.
 
 Even though this project fits all requirements, it still will be developed by adding more opportunities and security restrictions such as authentication and autorization for users.
 
+Update:
+
+Added custom User with JWT authentication.
+You can register with post request and get activation code(the code actually supposed to be sent to email, but there is an issue with sending an email)
+
+<p align="center">
+  <img src="screenshots/Screenshot 2024-03-12 at 21.07.51.png" width="350" title="API roots">
+</p>
+
+Then you can activate your account with sending get request.
+
+<p align="center">
+  <img src="screenshots/Screenshot 2024-03-12 at 21.08.18.png" width="350" title="API roots">
+</p>
+
+
+You can login and get refresh and access tokens.
+<p align="center">
+  <img src="screenshots/Screenshot 2024-03-12 at 21.06.40.png" width="350" title="API roots">
+</p>
+
+
+You can delete the user via delete request.
+<p align="center">
+  <img src="screenshots/Screenshot 2024-03-12 at 21.06.48.png" width="350" title="API roots">
+</p>
+
+
+
