@@ -11,9 +11,16 @@ services:
       - DB_NAME=reviro_db
       - DB_USER=yountuan
       - DB_PASSWORD=1
+      - TOKEN 
     ports:
       - 8000:8000
-    command: python manage.py runserver 0.0.0.0:8000
+
+    command: >
+      sh -c "python3 manage.py makemigrations && 
+      python3 manage.py migrate && 
+      python3 su.py && 
+      python3 manage.py runserver 0.0.0.0:8000
+
     depends_on:
       - pgdb
 
