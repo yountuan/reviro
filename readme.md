@@ -61,6 +61,8 @@ You can find containerization in dockerfiles.
 Even though this project fits all requirements, it still will be developed by adding more opportunities and security restrictions such as authentication and autorization for users.
 
 Update:
+Even though it wasn't in requirements, I decided to add Users. And you can see its setup below.
+
 
 Added custom User with JWT authentication.
 You can register with post request and get activation code(the code actually supposed to be sent to email, but there is an issue with sending an email)
